@@ -8,7 +8,7 @@ body{
     background-color: rgb(109, 1, 121);
     display: flex;
     justify-content: center;
-    font-family: sans;
+    font-family: "poppins", sans;
 }
 .welcome{
     color: rgba(26, 1, 26, 0.966);
